@@ -1,22 +1,25 @@
-# Points to cover in the project.
+#Points to cover in the project
 
 [1] https://towardsdatascience.com/linear-regression-on-boston-housing-dataset-f409b7e4a155
-*Linear Regression
-* Preparing data for Machine Learning
-* Splitting the data into training and testing sets
-* Training and testing the model
+1. Linear Regression
+1. Preparing data for Machine Learning
+1. Splitting the data into training and testing sets
+1. Training and testing the model
 
 [2] https://medium.com/@amitg0161/sklearn-linear-regression-tutorial-with-boston-house-dataset-cde74afd460a
-* Exploratory Data Analysis
-* Plotting the model fitted line on the output variable.
-* Regression Model for All the variables
+1. Exploratory Data Analysis
+1. Plotting the model fitted line on the output variable.
+1. Regression Model for All the variables
 
 [3] https://www.ritchieng.com/machine-learning-project-boston-home-prices/
-* Visualization
-* Implementation: Define a Performance Metric
+1. Visualization
+1. Implementation: Define a Performance Metric
 
 [4] https://github.com/meenuagarwal/Linear-Regression-with-Boston-Housing-Dataset/blob/master/LR.ipynb
 [5] https://www.geeksforgeeks.org/ml-boston-housing-kaggle-challenge-with-linear-regression/
 [6] https://gogul.dev/software/regression-example-boston-housing-prices
 
 Importing Keras [7] https://towardsdatascience.com/installing-keras-tensorflow-using-anaconda-for-machine-learning-44ab28ff39cb
+https://howilearnstatistics.com/post/data-analysis-with-r-boston-housing-dataset/
+https://www.kaggle.com/suryaprakashkadali/boston-housing-data-analysis
+http://prisoft.com/data-analysis-in-python-using-the-boston-housing-dataset/
