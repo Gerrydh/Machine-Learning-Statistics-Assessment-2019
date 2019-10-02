@@ -1,7 +1,7 @@
 # Points to cover in the project.
 
 [1] https://towardsdatascience.com/linear-regression-on-boston-housing-dataset-f409b7e4a155
-* Linear Regression
+*Linear Regression
 * Preparing data for Machine Learning
 * Splitting the data into training and testing sets
 * Training and testing the model
